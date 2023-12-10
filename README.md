@@ -15,6 +15,15 @@ The question arises: Why would someone with a history of mental illness be grant
 
 **Data Sources**:
 
+[CDC State Firearm Mortality](https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm)
+
+[Kaggle Data Violence](https://www.kaggle.com/datasets/nidzsharma/us-mass-shootings-19822023/data)
+
+[CDC State Unintentional Drug Overdose Reporting System-SUDORS](https://www.cdc.gov/drugoverdose/fatal/dashboard/index.html#)
+
+[State Firearm Law Database: State Firearm Laws, 1991-2019](https://www.icpsr.umich.edu/web/NACJD/studies/37363/versions/V1)
+
+
 **Challenges/ Lessons Learned**:
 
 maybe add a graphic at the end
