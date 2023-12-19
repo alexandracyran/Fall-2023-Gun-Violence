@@ -2,37 +2,17 @@
 
 Data 6505 Final Project
 
-**Trigger to Trauma: Decoding the Patterns of Gun Violence in the United States**
-
-By: Megha Idicula, Alexandra Cyran, and Victoria Lance Kominek
-
----
-
-**Overview**: Examining the relationship between people charged with gun violence and mental illness. This highlights the variations in the restrictiveness of gun laws across different states, including Connecticut. 
-The question arises: Why would someone with a history of mental illness be granted a gun license?
-
-
-**Data Sources**:
-
-[CDC State Firearm Mortality](https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm)
-
-[Kaggle Data Violence](https://www.kaggle.com/datasets/nidzsharma/us-mass-shootings-19822023/data)
-
-[CDC State Unintentional Drug Overdose Reporting System-SUDORS](https://www.cdc.gov/drugoverdose/fatal/dashboard/index.html#)
-
-[State Firearm Law Database: State Firearm Laws, 1991-2019](https://www.icpsr.umich.edu/web/NACJD/studies/37363/versions/V1)
-
-# Data Analysis Project: "Trigger to Trauma"
-
-## Overview
-
-This repository contains the code and analysis for the project "Trigger to Trauma: Decoding the Patterns of Gun Violence in the United States." The project focuses on examining the relationship between individuals charged with gun violence and mental illness, highlighting variations in gun laws across different states, with a special focus on Connecticut.
+# Project: "Trigger to Trauma: Decoding the Patterns of Gun Violence in the United States"
 
 ## Project Members
 
 - Megha Idicula
 - Alexandra Cyran
 - Victoria Lance Kominek
+
+## Overview
+
+This repository contains the code and analysis for the project "Trigger to Trauma." The project focuses on examining the relationship between individuals charged with gun violence and mental illness, highlighting variations in gun laws across different states, with a special focus on Connecticut.
 
 ## Table of Contents
 
@@ -42,7 +22,7 @@ This repository contains the code and analysis for the project "Trigger to Traum
 4. [Weapon Analysis](#weapon-analysis)
 5. [Firearm Mortality Analysis](#firearm-mortality-analysis)
 
-## Shooting Incidents Analysis
+### Shooting Incidents Analysis
 
 ### Heatmap of Shooting Incidents
 
@@ -64,7 +44,7 @@ This repository contains the code and analysis for the project "Trigger to Traum
 - Word cloud analysis of weapon details, with the ability to filter by location.
 - Reveals the most commonly used weapons in shooting incidents.
 
-## Firearm Mortality Analysis
+### Firearm Mortality Analysis
 
 - Analysis of firearm mortality rates, deaths, and correlations.
 - Visualization of mortality rates by state, year, and other relevant factors.
@@ -88,7 +68,6 @@ Feel free to explore each notebook for detailed analysis and visualizations.
 For any inquiries, please contact the project members listed above.
 
 
-
 **Challenges/ Lessons Learned**:
 
 Mass shootings gathers a lot of media attention, and therefore more data tracked. Making sure we differentiate between gun violence that happens every day while accounting for these specific incidents. 
@@ -99,9 +78,13 @@ Being able to comprehend the nuances of gun laws. We may need to look at this fr
 
 Public perception and bias. No one is going to say gun violence is a good thing, but gun laws add in a level of controversy which can be influenced by political or geographical factors. 
 
+**Data Sources**:
 
+[CDC State Firearm Mortality](https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm)
 
+[Kaggle Data Violence](https://www.kaggle.com/datasets/nidzsharma/us-mass-shootings-19822023/data)
 
-maybe add a graphic at the end
+[CDC State Unintentional Drug Overdose Reporting System-SUDORS](https://www.cdc.gov/drugoverdose/fatal/dashboard/index.html#)
 
+[State Firearm Law Database: State Firearm Laws, 1991-2019](https://www.icpsr.umich.edu/web/NACJD/studies/37363/versions/V1)
 
