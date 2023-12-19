@@ -1,42 +1,33 @@
-# Fall-2023-Gun-Violence
+# Trigger to Trauma: Decoding Gun Violence Patterns in the United States
 
-Data 6505 Final Project
+## Authors
+- Megha Idicula
+- Alexandra Cyran
+- Victoria Lance Kominek
 
-**Trigger to Trauma: Decoding the Patterns of Gun Violence in the United States**
+## Focus
+This repository explores the intricate relationship between individuals charged with gun violence and mental illness, with a spotlight on variations in gun laws across states, particularly in Connecticut. The central question revolves around the granting of gun licenses to individuals with a history of mental illness.
 
-By: Megha Idicula, Alexandra Cyran, and Victoria Lance Kominek
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Research Questions](#research-questions)
+3. [Analysis & Interpretation](#analysis--interpretation)
+4. [Conclusion](#conclusion)
+5. [Challenges/Lessons Learned](#challengeslessons-learned)
 
----
+## Introduction
+Gun violence is a pressing issue in the United States, prompting an examination of its connection to mental illness. Diverse data sources, including Kaggle, CDC, and the State Firearm Law Database, contribute to a comprehensive analysis.
 
-**Overview**: Examining the relationship between people charged with gun violence and mental illness. This highlights the variations in the restrictiveness of gun laws across different states, including Connecticut. 
-The question arises: Why would someone with a history of mental illness be granted a gun license?
+## Research Questions
+The research spans mental health factors in mass shootings, the impact of substance abuse on gun violence, and geographic variations in gun violence. Specific questions address mental health histories, correlations between drug overdose rates and mass shootings, and the relationship between gun laws and firearm mortality rates.
 
-**Background**: 
+## Analysis & Interpretation
+The analysis, divided into sections by the authors, utilizes datasets such as Kaggle Data Violence. Key findings include a gender imbalance in incidents, wide-ranging shooter ages, and concerns about legally obtained weapons. However, no clear link between prior mental health signs and incident severity emerged.
 
-**Data Sources**:
+## Conclusion
+The analysis underscores demographic trends and the need for comprehensive strategies, emphasizing improved mental health initiatives, stringent gun control, and enhanced security measures to address and prevent mass shootings.
 
-[CDC State Firearm Mortality](https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm)
+## Challenges/Lessons Learned
+Challenges include media attention bias, inconsistent reporting, legal nuances, and public perception bias. These factors influence the interpretation of data, requiring a nuanced understanding and objective analysis.
 
-[Kaggle Data Violence](https://www.kaggle.com/datasets/nidzsharma/us-mass-shootings-19822023/data)
-
-[CDC State Unintentional Drug Overdose Reporting System-SUDORS](https://www.cdc.gov/drugoverdose/fatal/dashboard/index.html#)
-
-[State Firearm Law Database: State Firearm Laws, 1991-2019](https://www.icpsr.umich.edu/web/NACJD/studies/37363/versions/V1)
-
-
-**Challenges/ Lessons Learned**:
-
-Mass shootings gathers a lot of media attention, and therefore more data tracked. Making sure we differentiate between gun violence that happens every day while accounting for these specific incidents. 
-
-There might not be consistent reporting across the United States. Some states may be more inundated by gun violence such as larger urban areas (New York-NYC, Illinois-Chicago, Florida- Miami, California).
-
-Being able to comprehend the nuances of gun laws. We may need to look at this from a broad scope since none of us have legal backgrounds. 
-
-Public perception and bias. No one is going to say gun violence is a good thing, but gun laws add in a level of controversy which can be influenced by political or geographical factors. 
-
-
-
-
-maybe add a graphic at the end
-
-
+This repository aims to contribute insights and foster discussions on the intricate dynamics of gun violence in the United States.

@@ -1,113 +1,33 @@
-# Fall-2023-Gun-Violence
+# Trigger to Trauma: Decoding Gun Violence Patterns in the United States
 
-Data 6505 Final Project
-
-<<<<<<< HEAD
-**Trigger to Trauma: Decoding the Patterns of Gun Violence in the United States**
-
-By: Megha Idicula, Alexandra Cyran, and Victoria Lance Kominek
-
----
-
-**Overview**: Examining the relationship between people charged with gun violence and mental illness. This highlights the variations in the restrictiveness of gun laws across different states, including Connecticut. 
-The question arises: Why would someone with a history of mental illness be granted a gun license?
-
-**Background**: 
-
-**Data Sources**:
-
-[CDC State Firearm Mortality](https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm)
-
-[Kaggle Data Violence](https://www.kaggle.com/datasets/nidzsharma/us-mass-shootings-19822023/data)
-
-[CDC State Unintentional Drug Overdose Reporting System-SUDORS](https://www.cdc.gov/drugoverdose/fatal/dashboard/index.html#)
-
-[State Firearm Law Database: State Firearm Laws, 1991-2019](https://www.icpsr.umich.edu/web/NACJD/studies/37363/versions/V1)
-=======
-# Project: "Trigger to Trauma: Decoding the Patterns of Gun Violence in the United States"
-
-## Project Members
-
+## Authors
 - Megha Idicula
 - Alexandra Cyran
 - Victoria Lance Kominek
 
-## Overview
-
-This repository contains the code and analysis for the project "Trigger to Trauma." The project focuses on examining the relationship between individuals charged with gun violence and mental illness, highlighting variations in gun laws across different states, with a special focus on Connecticut.
+## Focus
+This repository explores the intricate relationship between individuals charged with gun violence and mental illness, with a spotlight on variations in gun laws across states, particularly in Connecticut. The central question revolves around the granting of gun licenses to individuals with a history of mental illness.
 
 ## Table of Contents
+1. [Introduction](#introduction)
+2. [Research Questions](#research-questions)
+3. [Analysis & Interpretation](#analysis--interpretation)
+4. [Conclusion](#conclusion)
+5. [Challenges/Lessons Learned](#challengeslessons-learned)
 
-1. [Shooting Incidents Analysis](#shooting-incidents-analysis)
-2. [Shooter Analysis](#shooter-analysis)
-3. [Location Analysis](#location-analysis)
-4. [Weapon Analysis](#weapon-analysis)
-5. [Firearm Mortality Analysis](#firearm-mortality-analysis)
+## Introduction
+Gun violence is a pressing issue in the United States, prompting an examination of its connection to mental illness. Diverse data sources, including Kaggle, CDC, and the State Firearm Law Database, contribute to a comprehensive analysis.
 
-### Shooting Incidents Analysis
+## Research Questions
+The research spans mental health factors in mass shootings, the impact of substance abuse on gun violence, and geographic variations in gun violence. Specific questions address mental health histories, correlations between drug overdose rates and mass shootings, and the relationship between gun laws and firearm mortality rates.
 
-### Heatmap of Shooting Incidents
-
-- The code generates an interactive heatmap of shooting incidents across the United States.
-- Filtering options include location, providing insights into the distribution of incidents.
-
-### Shooter Analysis
-
-- Distribution of shooter ages, genders, and the presence of prior mental health issues.
-- Visualizations reveal patterns in the data, such as gender imbalances and the prevalence of mental health issues among shooters.
-
-### Location Analysis
-
-- Distribution of shootings by location type and the top 5 states with the highest number of shootings.
-- Insights into the geographical patterns of shooting incidents.
-
-### Weapon Analysis
-
-- Word cloud analysis of weapon details, with the ability to filter by location.
-- Reveals the most commonly used weapons in shooting incidents.
-
-### Firearm Mortality Analysis
-
-- Analysis of firearm mortality rates, deaths, and correlations.
-- Visualization of mortality rates by state, year, and other relevant factors.
-
-## How to Run the Code
-
-1. Install required libraries: `pip install -r requirements.txt`
-2. Run the Jupyter Notebooks in the specified order:
-   - `Shooting_Incidents_Analysis.ipynb`
-   - `Shooter_Analysis.ipynb`
-   - `Location_Analysis.ipynb`
-   - `Weapon_Analysis.ipynb`
-   - `Firearm_Mortality_Analysis.ipynb`
+## Analysis & Interpretation
+The analysis, divided into sections by the authors, utilizes datasets such as Kaggle Data Violence. Key findings include a gender imbalance in incidents, wide-ranging shooter ages, and concerns about legally obtained weapons. However, no clear link between prior mental health signs and incident severity emerged.
 
 ## Conclusion
+The analysis underscores demographic trends and the need for comprehensive strategies, emphasizing improved mental health initiatives, stringent gun control, and enhanced security measures to address and prevent mass shootings.
 
-The project provides valuable insights into the patterns and factors associated with gun violence, contributing to the understanding of this critical issue.
+## Challenges/Lessons Learned
+Challenges include media attention bias, inconsistent reporting, legal nuances, and public perception bias. These factors influence the interpretation of data, requiring a nuanced understanding and objective analysis.
 
-Feel free to explore each notebook for detailed analysis and visualizations.
-
-For any inquiries, please contact the project members listed above.
->>>>>>> 4cecdf9a19f6a0ee4908149ef1a45925290c428b
-
-
-**Challenges/ Lessons Learned**:
-
-Mass shootings gathers a lot of media attention, and therefore more data tracked. Making sure we differentiate between gun violence that happens every day while accounting for these specific incidents. 
-
-There might not be consistent reporting across the United States. Some states may be more inundated by gun violence such as larger urban areas (New York-NYC, Illinois-Chicago, Florida- Miami, California).
-
-Being able to comprehend the nuances of gun laws. We may need to look at this from a broad scope since none of us have legal backgrounds. 
-
-Public perception and bias. No one is going to say gun violence is a good thing, but gun laws add in a level of controversy which can be influenced by political or geographical factors. 
-
-**Data Sources**:
-
-[CDC State Firearm Mortality](https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm)
-
-[Kaggle Data Violence](https://www.kaggle.com/datasets/nidzsharma/us-mass-shootings-19822023/data)
-
-[CDC State Unintentional Drug Overdose Reporting System-SUDORS](https://www.cdc.gov/drugoverdose/fatal/dashboard/index.html#)
-
-[State Firearm Law Database: State Firearm Laws, 1991-2019](https://www.icpsr.umich.edu/web/NACJD/studies/37363/versions/V1)
-
+This repository aims to contribute insights and foster discussions on the intricate dynamics of gun violence in the United States.
