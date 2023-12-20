@@ -3,7 +3,8 @@
 **Authors:** Megha Idicula, Alexandra Cyran, Victoria Lance Kominek
 
 ## Purpose
-This repository explores the intricate relationship between individuals charged with gun violence and mental illness, with a spotlight on variations in gun laws across states, particularly in Connecticut, and examines state-specific mortality rates associated with firearm incidents. Gun violence is a pressing issue in the United States, prompting an examination of its connection to mental illness. Diverse data sources, including Kaggle, CDC, and the State Firearm Law Database, contribute to a comprehensive analysis. The central question of this research revolves around the granting of gun licenses to individuals with a history of mental illness. 
+This repository explores the intricate relationship between individuals charged with gun violence and mental illness, with a spotlight on variations in gun laws across states, particularly in Connecticut, and examines state-specific mortality rates associated with firearm incidents. Gun violence is a pressing issue in the United States, prompting an examination of its connection to mental illness. Diverse data sources, including Kaggle, CDC, and the State Firearm Law Database, contribute to a comprehensive analysis. The central question of this research revolves around the granting of gun licenses to individuals with a history of mental illness. This repository aims to contribute insights and foster discussions on the intricate dynamics of gun violence in the United States.
+
 
 ## Focus Areas
 - Mental health factors in mass shootings
@@ -32,4 +33,3 @@ These factors influence the interpretation of data, requiring a nuanced understa
 - [State Firearm Law Database: State Firearm Laws, 1991-2019](https://www.icpsr.umich.edu/web/NACJD/studies/37363/versions/V1)
 
 
-This repository aims to contribute insights and foster discussions on the intricate dynamics of gun violence in the United States.
