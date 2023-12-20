@@ -1,33 +1,35 @@
 # Trigger to Trauma: Decoding Gun Violence Patterns in the United States
 
-## Authors
-- Megha Idicula
-- Alexandra Cyran
-- Victoria Lance Kominek
+**Authors:** Megha Idicula, Alexandra Cyran, Victoria Lance Kominek
 
-## Focus
-This repository explores the intricate relationship between individuals charged with gun violence and mental illness, with a spotlight on variations in gun laws across states, particularly in Connecticut. The central question revolves around the granting of gun licenses to individuals with a history of mental illness.
+## Purpose
+This repository explores the intricate relationship between individuals charged with gun violence and mental illness, with a spotlight on variations in gun laws across states, particularly in Connecticut, and examines state-specific mortality rates associated with firearm incidents. Gun violence is a pressing issue in the United States, prompting an examination of its connection to mental illness. Diverse data sources, including Kaggle, CDC, and the State Firearm Law Database, contribute to a comprehensive analysis. The central question of this research revolves around the granting of gun licenses to individuals with a history of mental illness. This repository aims to contribute insights and foster discussions on the intricate dynamics of gun violence in the United States.
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Research Questions](#research-questions)
-3. [Analysis & Interpretation](#analysis--interpretation)
-4. [Conclusion](#conclusion)
-5. [Challenges/Lessons Learned](#challengeslessons-learned)
 
-## Introduction
-Gun violence is a pressing issue in the United States, prompting an examination of its connection to mental illness. Diverse data sources, including Kaggle, CDC, and the State Firearm Law Database, contribute to a comprehensive analysis.
+## Focus Areas
+- Mental health factors in mass shootings
+- Impact of substance abuse on gun violence
+- Geographic variations in gun violence. 
+- The relationship between gun laws and firearm mortality rates
 
-## Research Questions
-The research spans mental health factors in mass shootings, the impact of substance abuse on gun violence, and geographic variations in gun violence. Specific questions address mental health histories, correlations between drug overdose rates and mass shootings, and the relationship between gun laws and firearm mortality rates.
 
-## Analysis & Interpretation
-The analysis, divided into sections by the authors, utilizes datasets such as Kaggle Data Violence. Key findings include a gender imbalance in incidents, wide-ranging shooter ages, and concerns about legally obtained weapons. However, no clear link between prior mental health signs and incident severity emerged.
+## Challenges & Lessons Learned:
+**Media Attention Bias:** Mass shootings gathers a lot of media attention, and therefore more data tracked. Making sure we differentiate between gun violence that happens every day while accounting for these specific incidents.
 
-## Conclusion
-The analysis underscores demographic trends and the need for comprehensive strategies, emphasizing improved mental health initiatives, stringent gun control, and enhanced security measures to address and prevent mass shootings.
+**Inconsistent Reporting:** There might not be consistent reporting across the United States. States with large urban areas such as New York City, Chicaho, Miami, Los Angelos, may experience higher rates of gun violence possibly skewing available data.
 
-## Challenges/Lessons Learned
-Challenges include media attention bias, inconsistent reporting, legal nuances, and public perception bias. These factors influence the interpretation of data, requiring a nuanced understanding and objective analysis.
+**Legal Nuances:** Comprehending the complexities of gun laws is challenging, especially without a legal background. Analyzing gun violence data requires a broad perspective to navigate the legal landscape effectively.
 
-This repository aims to contribute insights and foster discussions on the intricate dynamics of gun violence in the United States.
+**Public perception and bias:** Gun violence and gun laws are highly sensitive topics influenced by public perception and bias. Political and geographical factors can shape opinions, leading to controversies surrounding the interpretation of data. Acknowledging and addressing these biases is crucial for an objective analysis.
+
+These factors influence the interpretation of data, requiring a nuanced understanding and objective analysis.
+
+
+## Important Links
+- [Final Notebook](https://github.com/alexandracyran/Fall-2023-Gun-Violence/blob/main/Final_Gun_Violence_Notebook.ipynb)
+- [CDC State Firearm Mortality](https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm)
+- [Kaggle Data Violence](https://www.kaggle.com/datasets/nidzsharma/us-mass-shootings-19822023/data)
+- [CDC State Unintentional Drug Overdose Reporting System-SUDORS](https://www.cdc.gov/drugoverdose/fatal/dashboard/index.html#)
+- [State Firearm Law Database: State Firearm Laws, 1991-2019](https://www.icpsr.umich.edu/web/NACJD/studies/37363/versions/V1)
+
+
